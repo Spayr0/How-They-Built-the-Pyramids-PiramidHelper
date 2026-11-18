@@ -16,7 +16,18 @@ A custom mod that expands gameplay with new abilities, powerful tools and config
 
 Screenshots of the mod in action:
 
-*More screenshots coming soon!*
+### Mod showcase
+
+![Screenshot 1](Screenshots/Discord_ExWg1IB8LQ.png)
+
+![Screenshot 2](Screenshots/Discord_BX0M27YeSm.jpg)
+
+![Screenshot 3](Screenshots/Discord_jIZFCpGkA7.jpg)
+
+![Screenshot 4](Screenshots/Discord_t73qwUq3x6.jpg)
+
+![Screenshot 5](Screenshots/Discord_xtcdoOtjQb.jpg)
+
 
 ## 🛠️ Requirements
 
