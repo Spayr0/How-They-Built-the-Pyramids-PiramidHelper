@@ -53,9 +53,9 @@ Piramid Helper should load automatically.
 
 Created by **Spayr0**.
 
-## 🤖 AI Assistance
+## 🤖 Поддержка с помощью искусственного интеллекта
 
-AI tools were used to assist with parts of the development, debugging and documentation of Piramid Helper.
+Инструменты искусственного интеллекта использовались при разработке, отладке и документировании Piramid Helper.
 
-The project design, implementation decisions and final code were reviewed.
+Разработка проекта, решения по внедрению и окончательный код были рассмотрены разработчиком и контролировались им.
 
