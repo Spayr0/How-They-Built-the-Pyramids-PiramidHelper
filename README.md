@@ -1,3 +1,4 @@
+![Piramid Helper](Images/piramid-banner.png)
 # 🏺 Piramid Helper
 ### A powerful mod for How They Built the Pyramids
 
