@@ -18,15 +18,13 @@ Screenshots of the mod in action:
 
 ### Mod showcase
 
-![Screenshot 1](Screenshots/Discord_ExWg1IB8LQ.png)
+![Screenshot 1](Screenshots/Discord_BX0M27YeSm.jpg)
 
-![Screenshot 2](Screenshots/Discord_BX0M27YeSm.jpg)
+![Screenshot 2](Screenshots/Discord_jIZFCpGkA7.jpg)
 
-![Screenshot 3](Screenshots/Discord_jIZFCpGkA7.jpg)
+![Screenshot 3](Screenshots/Discord_t73qwUq3x6.jpg)
 
-![Screenshot 4](Screenshots/Discord_t73qwUq3x6.jpg)
-
-![Screenshot 5](Screenshots/Discord_xtcdoOtjQb.jpg)
+![Screenshot 4](Screenshots/Discord_xtcdoOtjQb.jpg)
 
 
 ## 🛠️ Requirements
