@@ -1,4 +1,4 @@
-![Piramid Helper](Images/Piramid%20Helper_%20Золотой%20мод%20README.png)
+![Piramid Helper](Images/browser_GDf4QfRklb.jpg)
 # 🏺 Piramid Helper
 ### A powerful mod for How They Built the Pyramids
 
