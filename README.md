@@ -28,38 +28,19 @@ Screenshots of the mod in action:
 ![Screenshot 4](Screenshots/Discord_xtcdoOtjQb.jpg)
 
 
-## 📦 Installation Guide
+## 📦 Installation
 
-### Current status
+Installing Piramid Helper is simple!
 
-Piramid Helper is currently available as source code.
+1. Download `PiramidHelper.dll`.
+2. Open your game folder.
+3. Open `BepInEx/plugins`.
+4. Copy `PiramidHelper.dll` into this folder.
+5. Launch the game!
 
-A compiled `.dll` release is not available yet.
+That's it! Enjoy Piramid Helper! 🏺
 
-### Requirements
-
-- How They Built the Pyramids
-- BepInEx 5
-- Visual Studio
-
-### Build from source
-
-1. Download or clone this repository.
-2. Open `PyramidsFly.csproj` in Visual Studio.
-3. Make sure the game assembly references are configured.
-4. Build the project using the Release configuration.
-5. Locate the compiled DLL in the `bin/Release` folder.
-
-### Install the compiled mod
-
-1. Open the game directory.
-2. Open `BepInEx/plugins`.
-3. Copy the compiled Piramid Helper DLL into that folder.
-4. Launch the game.
-
-### Important
-
-This project is currently distributed as source code. A ready-to-download DLL may be added in a future release.
+**Note:** BepInEx 5 must already be installed.
 
 ---
 
