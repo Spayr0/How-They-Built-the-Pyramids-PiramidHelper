@@ -8,7 +8,6 @@ A game modification for **How They Built the Pyramids** that adds useful tools, 
 - **Brick Control** — customize brick flight speed and behavior.
 - **Trebuchet Enhancements** — modify trebuchet power and volley settings.
 - **Player Stats** — adjust player strength and speed.
-- **Shabti Editor** — manage and improve your Shabti.
 - **Building Unlocks** — unlock additional building options.
 - **Custom Interface** — convenient in-game menu with configurable options.
 
