@@ -1,55 +1,62 @@
-![Piramid Helper](Images/browser_GDf4QfRklb.jpg)
-# 🏺 Piramid Helper
-### A powerful mod for How They Built the Pyramids
+## 🏺 Piramid Helper 2.5.0
 
-A custom mod that expands gameplay with new abilities, powerful tools and configurable features.
+A game modification for **How They Built the Pyramids** that adds useful tools, enhanced controls and extra gameplay features.
 
-## 🎮 Features
+## ✨ Features
 
-- 🚀 Enhanced player movement
-- 🧱 Advanced brick controls
-- 🏗️ Building unlock options
-- 🎯 Trebuchet modifications
-- ⚙️ Customizable settings
-- 🔥 Additional gameplay enhancements
+- **Game Controls** — additional controls and gameplay options.
+- **Brick Control** — customize brick flight speed and behavior.
+- **Trebuchet Enhancements** — modify trebuchet power and volley settings.
+- **Player Stats** — adjust player strength and speed.
+- **Shabti Editor** — manage and improve your Shabti.
+- **Building Unlocks** — unlock additional building options.
+- **Custom Interface** — convenient in-game menu with configurable options.
 
 ## 📸 Screenshots
 
-Screenshots of the mod in action:
+See the screenshots above to explore the mod in action.
 
-### Mod showcase
+## 📥 Installation — Piramid Helper 2.5.0
 
-![Screenshot 1](Screenshots/Discord_BX0M27YeSm.jpg)
+### Step 1. Download the mod
 
-![Screenshot 2](Screenshots/Discord_jIZFCpGkA7.jpg)
+1. Open the [Releases page](https://github.com/Spayr0/How-They-Built-the-Pyramids-PiramidHelper/releases).
+2. Download `PiramidHelper_2.5.0.zip`.
+3. Extract the ZIP archive.
 
-![Screenshot 3](Screenshots/Discord_t73qwUq3x6.jpg)
+### Step 2. Find the game folder in Steam
 
-![Screenshot 4](Screenshots/Discord_xtcdoOtjQb.jpg)
+1. Open Steam.
+2. Go to your **Library**.
+3. Find **How They Built the Pyramids**.
+4. Right-click the game.
+5. Select **Properties**.
+6. Open **Installed Files**.
+7. Click **Browse**.
 
+The game folder will open. You should see `Pyramid.exe` inside.
 
-## 📦 Installation
+### Step 3. Install the mod
 
-Installing Piramid Helper is simple!
+1. Copy all contents of the extracted ZIP archive.
+2. Paste them into the game folder, next to `Pyramid.exe`.
+3. If Windows asks to replace files, confirm.
 
-1. Download `PiramidHelper.dll`.
-2. Open your game folder.
-3. Open `BepInEx/plugins`.
-4. Copy `PiramidHelper.dll` into this folder.
-5. Launch the game!
+### Step 4. Launch the game
 
-That's it! Enjoy Piramid Helper! 🏺
+Launch the game through Steam.
 
-**Note:** BepInEx 5 must already be installed.
+Piramid Helper should load automatically.
 
----
-
-**Enjoy Piramid Helper!** 🏺
+**Requirements:** The archive includes BepInEx 5.4.23.6, which is required for the mod to work.
 
 ## 👨‍💻 Developer
 
 Created by **Spayr0**.
 
-## 📜 License
+## 🤖 AI Assistance
 
-See repository license information.
+AI tools were used to assist with parts of the development, debugging and documentation of Piramid Helper.
+
+The project design, implementation decisions and final code were reviewed and managed by the developer.
+
