@@ -1,3 +1,5 @@
+![Piramid Helper Banner](https://raw.githubusercontent.com/Spayr0/How-They-Built-the-Pyramids-PiramidHelper/main/Images/browser_GDf4QfRklb.jpg)
+
 ## 🏺 Piramid Helper 2.5.0
 
 A game modification for **How They Built the Pyramids** that adds useful tools, enhanced controls and extra gameplay features.
@@ -12,6 +14,8 @@ A game modification for **How They Built the Pyramids** that adds useful tools, 
 - **Custom Interface** — convenient in-game menu with configurable options.
 
 ## 📸 Screenshots
+
+![Piramid Helper In-Game Screenshot](https://raw.githubusercontent.com/Spayr0/How-They-Built-the-Pyramids-PiramidHelper/main/Screenshots/Discord_BX0M27YeSm.jpg)
 
 See the screenshots above to explore the mod in action.
 
@@ -53,9 +57,8 @@ Piramid Helper should load automatically.
 
 Created by **Spayr0**.
 
-## 🤖 Поддержка с помощью искусственного интеллекта
+## 🤖 AI Assistance
 
-Инструменты искусственного интеллекта использовались при разработке, отладке и документировании Piramid Helper.
+AI tools were used to assist with the development, debugging and documentation of Piramid Helper.
 
-Разработка проекта, решения по внедрению и окончательный код были рассмотрены разработчиком и контролировались им.
-
+The project development, implementation decisions and final code were reviewed and managed by the developer.
