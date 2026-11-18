@@ -57,5 +57,5 @@ Created by **Spayr0**.
 
 AI tools were used to assist with parts of the development, debugging and documentation of Piramid Helper.
 
-The project design, implementation decisions and final code were reviewed and managed by the developer.
+The project design, implementation decisions and final code were reviewed.
 
